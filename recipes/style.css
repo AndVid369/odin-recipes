@@ -1,0 +1,26 @@
+.recip {
+    color: black;
+    background-color:aquamarine;
+    text-align: center;
+    padding: 30px;
+    margin:auto;
+    
+}
+
+ul {
+    color: rgb(0, 204, 255);
+    background-color:cadetblue;
+    padding: 30px;
+    width: 300px;
+    
+}
+
+.card {
+    padding: 20px;
+    height: 400px;
+    width: 600px;
+    margin:auto;
+    background-color: grey;
+
+
+}
